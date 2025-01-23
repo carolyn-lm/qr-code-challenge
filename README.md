@@ -18,13 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 ### Links
 
 - Solution URL: [https://github.com/carolyn-lm/qr-code-challenge]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://carolyn-lm.github.io/qr-code-challenge/]
 
 ### Built with
 
@@ -42,6 +42,6 @@ I still need to work on understanding flexbox better and when to use margin vs p
 
 
 ## Author
-
+Carolyn M.
 - Frontend Mentor - [https://www.frontendmentor.io/profile/carolyn-lm]
 
